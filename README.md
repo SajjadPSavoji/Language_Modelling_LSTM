@@ -9,33 +9,17 @@ In case studies other parameters of the model was fixed to ensure accurate compa
     <td>
       <table>
         <tr>
-          <td>
-            Model name
-          </td>
-          <td>
-            h10
-          </td>
-          <td>
-            h100
-          </td>
+          <td> Model name </td>
+          <td> H10 </td>
+          <td> H100 </td>
+          <td> S1</td>
+          <td> S5 </td>
+          <td> E50 </td>
+          <td> E200 </td>
+          <td> LR0.1 </td>
+          <td> LR0.01 </td>
         </tr>
       </table>
-    </td>
-     <td>
-       <table>
-        <tr>
-          <td>
-            Model name
-          </td>
-          <td>
-            h10
-          </td>
-          <td>
-            h100
-          </td>
-        </tr>
-      </table>
-    </td>
   </tr>
  </table>
 ## Hidden Dimension
