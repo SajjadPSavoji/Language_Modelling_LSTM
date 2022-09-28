@@ -106,4 +106,3 @@ In case studies other parameters of the model was fixed to ensure accurate compa
 * [Intro to Word Embedding in Pytorch](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
 * [Intro to GRU in Pytorch](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
 * [Intro to Glove module](https://pytorchnlp.readthedocs.io/en/latest/source/torchnlp.word_to_vector.html)
-* 
