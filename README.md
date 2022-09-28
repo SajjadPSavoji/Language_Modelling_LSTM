@@ -7,33 +7,41 @@ In case studies other parameters of the model was fixed to ensure accurate compa
 <table>
   <tr>
     <td>
-      
-      |Model Name| h10 | h100|
-      |:---------|:---:|:---:|
-      |Embedding Size|50|50|
-      |Hidden Layer Size|**10**|**100**|
-      |Number of Layers|2|2|
-      |Batch Size|256|256|
-      |Epochs|50|50|
-      |Learning Rate|0.1|0.1|
-      
+      <table>
+        <tr>
+          <td>
+            Model name
+          </td>
+          <td>
+            h10
+          </td>
+        </tr>
+      </table>
     </td>
      <td>
-       
-      |Model Name| h10 | h100|
-      |:---------|:---:|:---:|
-      |Embedding Size|50|50|
-      |Hidden Layer Size|**10**|**100**|
-      |Number of Layers|2|2|
-      |Batch Size|256|256|
-      |Epochs|50|50|
-      |Learning Rate|0.1|0.1|
-       
+       <table>
+        <tr>
+          <td>
+            h10
+          </td>
+          <td>
+            h10
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
  </table>
 ## Hidden Dimension
 
+|Model Name| h10 | h100|
+|:---------|:---:|:---:|
+|Embedding Size|50|50|
+|Hidden Layer Size|**10**|**100**|
+|Number of Layers|2|2|
+|Batch Size|256|256|
+|Epochs|50|50|
+|Learning Rate|0.1|0.1|
 
 ## Number of Layers
 
