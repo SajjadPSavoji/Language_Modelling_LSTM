@@ -96,3 +96,14 @@ In case studies other parameters of the model was fixed to ensure accurate compa
 
 ## Learning Rate
 ![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.05.38%20PM.jpeg)
+
+## Resources
+* [Dataset Explained](https://www.reddit.com/r/MachineLearning/comments/ji7y06/p_dataset_of_196640_books_in_plain_text_for/)
+* [Dataset(download)](https://the-eye.eu/public/AI/pile_preliminary_components/books1.tar.gz)
+* [Intro to Pytorch for NLP](https://pytorch.org/tutorials/beginner/nlp/pytorch_tutorial.html#sphx-glr-beginner-nlp-pytorch-tutorial-py)
+* [Intro to Pytorch for BOW](https://pytorch.org/tutorials/beginner/nlp/deep_learning_tutorial.html#sphx-glr-beginner-nlp-deep-learning-tutorial-py)
+* [Intro to LSTM in Pytorch](https://pytorch.org/tutorials/beginner/nlp/deep_learning_tutorial.html#sphx-glr-beginner-nlp-deep-learning-tutorial-py)
+* [Intro to Word Embedding in Pytorch](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
+* [Intro to GRU in Pytorch](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html)
+* [Intro to Glove module](https://pytorchnlp.readthedocs.io/en/latest/source/torchnlp.word_to_vector.html)
+* 
