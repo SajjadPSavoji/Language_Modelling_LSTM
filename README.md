@@ -26,7 +26,7 @@ In case studies other parameters of the model was fixed to ensure accurate compa
           <td> 50</td>
           <td> 50 </td>
           <td> 50 </td>
-          <td> 200 </td>
+          <td bgcolor="lightblue"> 200 </td>
           <td> 50 </td>
           <td> 50 </td>
         </tr>
