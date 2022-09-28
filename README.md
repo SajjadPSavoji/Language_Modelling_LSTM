@@ -84,7 +84,22 @@ In case studies other parameters of the model was fixed to ensure accurate compa
     <td> 0.01 </td>
   </tr>
 </table>
+
 ## Hidden Dimension
+<table>
+  <tr>
+    <td> Model Name </td>
+    <td> Generated Sentence using AutoRegression </td>
+  </tr>
+  <tr>
+    <td> H10 </td>
+    <td> She had lost part of -- walked very and saying</td>
+  </tr>
+  <tr>
+    <td> H100 </td>
+    <td> She had lost part of -- England</td>
+  </tr>
+</table>
 
 ## Number of Layers
 
