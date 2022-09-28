@@ -86,11 +86,10 @@ In case studies other parameters of the model was fixed to ensure accurate compa
 </table>
 
 ## Hidden Dimension
- - perplexity reduction speed is the same for both models.
- - H10 converges sooner than H100.
- - H100 has a better performance on the test split compared with H10.
- - H100 generates more accurate sentences compared with H10.
- - 
+ - perplexity reduction speed is the same for both models
+ - H10 converges sooner than H100
+ - H100 has a better performance on the test split compared with H10
+ - H100 generates more accurate sentences compared with H10
 ![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.04.51%20PM.jpeg)
 
 ## Number of Layers
