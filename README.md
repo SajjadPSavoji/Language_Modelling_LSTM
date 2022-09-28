@@ -15,6 +15,9 @@ In case studies other parameters of the model was fixed to ensure accurate compa
           <td>
             h10
           </td>
+          <td>
+            h100
+          </td>
         </tr>
       </table>
     </td>
@@ -22,10 +25,13 @@ In case studies other parameters of the model was fixed to ensure accurate compa
        <table>
         <tr>
           <td>
-            h10
+            Model name
           </td>
           <td>
             h10
+          </td>
+          <td>
+            h100
           </td>
         </tr>
       </table>
