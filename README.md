@@ -7,6 +7,7 @@ In case studies other parameters of the model was fixed to ensure accurate compa
 <table>
   <tr>
     <td>
+      
       |Model Name| h10 | h100|
       |:---------|:---:|:---:|
       |Embedding Size|50|50|
@@ -15,8 +16,10 @@ In case studies other parameters of the model was fixed to ensure accurate compa
       |Batch Size|256|256|
       |Epochs|50|50|
       |Learning Rate|0.1|0.1|
+      
     </td>
      <td>
+       
       |Model Name| h10 | h100|
       |:---------|:---:|:---:|
       |Embedding Size|50|50|
@@ -25,6 +28,7 @@ In case studies other parameters of the model was fixed to ensure accurate compa
       |Batch Size|256|256|
       |Epochs|50|50|
       |Learning Rate|0.1|0.1|
+       
     </td>
   </tr>
  </table>
