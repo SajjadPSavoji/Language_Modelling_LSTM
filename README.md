@@ -86,23 +86,13 @@ In case studies other parameters of the model was fixed to ensure accurate compa
 </table>
 
 ## Hidden Dimension
-<table>
-  <tr>
-    <td> Model Name </td>
-    <td> Generated Sentence using AutoRegression </td>
-  </tr>
-  <tr>
-    <td> H10 </td>
-    <td> She had lost part of -- walked very and saying</td>
-  </tr>
-  <tr>
-    <td> H100 </td>
-    <td> She had lost part of -- England</td>
-  </tr>
-</table>
+![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.04.51%20PM.png)
 
 ## Number of Layers
+![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.05.07%20PM.png)
 
 ## Embedding Dimension
+![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.05.22%20PM.png)
 
 ## Learning Rate
+![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.05.38%20PM.png)
