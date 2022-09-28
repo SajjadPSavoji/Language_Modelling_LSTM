@@ -94,12 +94,29 @@ In case studies other parameters of the model was fixed to ensure accurate compa
 ![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.04.51%20PM.jpeg)
 
 ## Number of Layers
+ - perplexity reduction speed is NOT the same for both models
+ - E50 has a better convergence properties compared with E200
+ - E200 has a better performance on the test split compared with E50
+ - E50 generates more accurate sentences compared with E200
+ 
 ![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.05.07%20PM.jpeg)
 
 ## Embedding Dimension
+
+ - perplexity reduction speed is the same for both models
+ - convergance speed is the same for both models
+ - S1 has a better performance on the test split compared with S5
+ - S1 generates more accurate sentences compared with S5
+
 ![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.05.22%20PM.jpeg)
 
 ## Learning Rate
+
+ - perplexity reduction speed is more for LR0.1 compared with LR0.01
+ - LR0.1 has a better convergence properties compared with LR0.01
+ - LR0.1 has a better performance on the test split compared with LR0.01
+ - LR0.1 generates more accurate sentences compared with LR0.01
+
 ![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.05.38%20PM.jpeg)
 
 ## Resources
