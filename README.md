@@ -8,7 +8,7 @@ In case studies other parameters of the model was fixed to ensure accurate compa
 |Model Name| h10 | h100|
 |:---------|:---:|:---:|
 |Embedding Size|50|50|
-|Hidden Layer Size|** 10|** 100|
+|Hidden Layer Size|**10**|**100**|
 |Number of Layers|2|2|
 |Batch Size|256|256|
 |Epochs|50|50|
