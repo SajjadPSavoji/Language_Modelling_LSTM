@@ -86,7 +86,7 @@ In case studies other parameters of the model was fixed to ensure accurate compa
 </table>
 
 ## Hidden Dimension
-![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.04.51%20PM.png)
+![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.04.51%20PM.jpeg)
 
 ## Number of Layers
 ![Hidden Image](https://github.com/SajjadPSavoji/Language_Modelling_LSTM/blob/main/Asset/Screen%20Shot%202022-09-28%20at%203.05.07%20PM.png)
